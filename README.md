@@ -69,7 +69,7 @@ const ashrut = {
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ashrutprakash72&theme=nord&no-frame=true&no-bg=true&column=7" alt="Ashrut's GitHub trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=ashrutprakash72&theme=nord&no-frame=true&no-bg=true&column=7" alt="Ashrut's GitHub trophies" />
 </p>
 
 ## Contribution Activity
@@ -81,5 +81,6 @@ const ashrut = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=100&section=footer" alt="Waving footer banner" />
 </p>
+
 
 
