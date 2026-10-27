@@ -69,16 +69,17 @@ const ashrut = {
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashrutprakash72&theme=nord&no-frame=true&no-bg=true&column=7&title_color=7dd3fc" alt="Ashrut's GitHub trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ashrutprakash72&theme=nord&no-frame=true&no-bg=true&column=7" alt="Ashrut's GitHub trophies" />
 </p>
 
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrutprakash72&bg_color=2e3440&color=d8dee9&line=7dd3fc&point=7dd3fc&area=true&hide_border=true" alt="Ashrut's contribution activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashrutprakash72&theme=nord_dark" alt="Ashrut's GitHub contribution activity" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=100&section=footer" alt="Waving footer banner" />
 </p>
+
 
