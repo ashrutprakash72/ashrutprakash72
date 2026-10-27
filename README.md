@@ -39,7 +39,8 @@ const ashrut = {
 
 ### AI / DB
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow,mysql&theme=light" alt="NumPy, PyTorch, TensorFlow, and MySQL" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light" alt="PyTorch and TensorFlow" />
   <br />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
@@ -81,6 +82,8 @@ const ashrut = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=100&section=footer" alt="Waving footer banner" />
 </p>
+
+
 
 
 
